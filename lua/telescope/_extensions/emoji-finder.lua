@@ -10,7 +10,7 @@ local api,fn = vim.api,vim.fn
 local displayer = entry_display.create{
     separator = ' ',
     items = {
-        {width = 5},
+        {width = 2},
         {width = 10},
         {remaining = true}
     }
