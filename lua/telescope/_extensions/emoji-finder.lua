@@ -11,7 +11,7 @@ local displayer = entry_display.create{
     separator = ' ',
     items = {
         {width = 2},
-        {width = 10},
+        {width = 20},
         {remaining = true}
     }
 }
